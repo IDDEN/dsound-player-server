@@ -1,0 +1,29 @@
+{
+  "name": "dsound-player-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDDEN/dsound-player-server.git"
+  },
+  "keywords": [
+    "dsound",
+    "player",
+    "server"
+  ],
+  "author": "tymmesyde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDDEN/dsound-player-server/issues"
+  },
+  "homepage": "https://github.com/IDDEN/dsound-player-server#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "hazel-server": "^3.0.3"
+  }
+}
