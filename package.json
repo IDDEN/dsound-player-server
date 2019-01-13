@@ -1,6 +1,6 @@
 {
   "name": "dsound-player-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
     "hazel-server": "^3.0.3"
   }
 }
